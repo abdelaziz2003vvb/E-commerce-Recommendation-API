@@ -1,4 +1,4 @@
-# Auto-detect text  files and normalize to LF in repository
+# Auto-detect text files and normalize to LF in repository
 * text=auto
 
 # Force LF for these text file types (useful for scripts, code, configs)
